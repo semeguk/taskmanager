@@ -1,0 +1,28 @@
+.row{
+
+    background: rgb(246, 250, 245);
+    margin-left: 10px;
+    border-style: solid;
+}
+
+#l1{
+    display: block;
+    width: 100%;
+    background: rgb(8, 32, 243);
+    color: aliceblue;
+    border-radius: 10px;
+    height: 60px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+#l2{
+    background: rgb(231, 50, 150);
+    padding: 5px  10px;
+}
+body{
+    background: rgb(213, 198, 233);
+}
